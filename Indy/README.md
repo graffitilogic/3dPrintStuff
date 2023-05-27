@@ -91,6 +91,10 @@ Add the Outer Inset
 Glue or CA the Viewfinder to the Outer Bowl Ring
 The Outer Bowl ring should push snugly into the outer inset channel
 
+General Print Settings and Tips
+Most small parts I printed as solid (100% infill)
+Most silk filaments tend to have a directionality where prints going in one direction have the metallic-shine and loose the shine in perpendicular patterns.  I never was able to find a fully satisfying antique-gold filament that went down cleanly and ultimately ended up painting my gold parts with [Krylon Gold Leaf](https://www.lowes.com/pd/Krylon-High-gloss-Metallic-Gold-Leaf-Metallic-Spray-Paint-Actual-Net-Contents-11-oz/1000875130) rattle-can.
 
+If you'd like some natural spirals to show through on a particular disc-shaped part you can use Archimedean-Chord infill pattern and top-layer pattern in the slicer and reduce the number of top layers depending on how much spiral you'd like to bleed through.  This is .. thematically satisfying but also utilitarian in small parts like the the compass post.  If you print the floor and post in Archimedean-chords, they sort of screw together on assembly. 
 
 
