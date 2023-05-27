@@ -91,7 +91,7 @@ Add the Outer Inset
 Glue or CA the Viewfinder to the Outer Bowl Ring
 The Outer Bowl ring should push snugly into the outer inset channel
 
-General Print Settings and Tips
+**General Print Settings and Tips**
 Most small parts I printed as solid (100% infill)
 Most silk filaments tend to have a directionality where prints going in one direction have the metallic-shine and loose the shine in perpendicular patterns.  I never was able to find a fully satisfying antique-gold filament that went down cleanly and ultimately ended up painting my gold parts with [Krylon Gold Leaf](https://www.lowes.com/pd/Krylon-High-gloss-Metallic-Gold-Leaf-Metallic-Spray-Paint-Actual-Net-Contents-11-oz/1000875130) rattle-can.
 
