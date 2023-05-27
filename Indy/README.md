@@ -27,7 +27,7 @@ I'm artistically challenged, so the glyph work and artistic aspects are going to
 
 **Print and Assembly Instructions**
 
-I printed the Box and the floor separately on a textured plate.  Oriented horizontally, the box will require supports for the center shelf and if you print the box-option with detailed sides, the sides will require supports.   Removing the supports from those box-side details is a pain in the ass, sorry.    You could also choose to print the box vertically oriented with a brim and it will use less support material.
+I printed the Box and the floor separately on a textured plate.  Oriented horizontally, the box will require supports for the center shelf and if you print the box-option with detailed sides, the sides will require supports.   Removing the supports from those box-side details is sort of a pain in the buttocks.    Although, I ended up with some pretty convincing looking toolmarks from removing all the little plastic support boogers from those side details.   You could also choose to print the box vertically oriented with a brim and it will use less support material.
 
 I printed the floor with a high infill for stability, the box with a 50% infill for weight.  I used [Iridium Gold](https://us.store.bambulab.com/products/pla-metal?variant=41002951737480) but wasn't happy with the unpainted color, so use whatever works best for your preference.
 
