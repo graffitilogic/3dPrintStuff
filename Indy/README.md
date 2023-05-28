@@ -27,7 +27,7 @@ I'm artistically challenged, so the glyph work and artistic aspects are going to
 
 **Print and Assembly Instructions**
 
-I printed the Box and the floor separately on a textured plate.  Oriented horizontally, the box will require supports for the center shelf and if you print the box-option with detailed sides, the sides will require supports.   Removing the supports from those box-side details is a pain in the ass, sorry.    You could also choose to print the box vertically oriented with a brim and it will use less support material.
+I printed the Box and the floor separately on a textured plate.  Oriented horizontally, the box will require supports for the center shelf and if you print the box-option with detailed sides, the sides will require supports.   Removing the supports from those box-side details is sort of a pain in the buttocks.    Although, I ended up with some pretty convincing looking toolmarks from removing all the little plastic support boogers from those side details.   You could also choose to print the box vertically oriented with a brim and it will use less support material.
 
 I printed the floor with a high infill for stability, the box with a 50% infill for weight.  I used [Iridium Gold](https://us.store.bambulab.com/products/pla-metal?variant=41002951737480) but wasn't happy with the unpainted color, so use whatever works best for your preference.
 
@@ -61,6 +61,7 @@ Eye piece
 
 
 For Assembly:
+
 Glue a paperclip, needle or other small metal pin into the back of the Compass Dial.   I found a combination of [super glue and baking soda](https://www.youtube.com/watch?v=ImLAmfM_AgA) to be helpful here when fusing plastics with metals.    There is a 3d printed Dial-Post but it is too small and will eventually break in my experience.
 
 Start with the Box Floor. 
@@ -75,6 +76,7 @@ Add the spiral, recommend rotating it to optimize visibility of the viewfinder c
 
 You can now press the assembled box floor into the box. 
 From here:
+
 Add the inner inset ring to the inner box shelf
 Add the small gold ring to the inset ring with a small drop of CA/ Glue
 Add Compass Post (hole should face up)
@@ -91,6 +93,14 @@ Add the Outer Inset
 Glue or CA the Viewfinder to the Outer Bowl Ring
 The Outer Bowl ring should push snugly into the outer inset channel
 
+**General Print Settings and Tips**
 
+Most small parts I printed as solid (100% infill)
+
+Most silk filaments tend to have a directionality where prints going in one direction have the metallic-shine and loose the shine in perpendicular patterns.  I never was able to find a fully satisfying antique-gold filament that went down cleanly and ultimately ended up painting my gold parts with [Krylon Gold Leaf](https://www.lowes.com/pd/Krylon-High-gloss-Metallic-Gold-Leaf-Metallic-Spray-Paint-Actual-Net-Contents-11-oz/1000875130) rattle-can.
+
+If you'd like some natural spirals to show through on a particular disc-shaped part you can use Archimedean-Chord infill pattern and top-layer pattern in the slicer and reduce the number of top layers depending on how much spiral you'd like to bleed through.  
+
+This is .. thematically satisfying but also utilitarian in small parts like the the compass post.  If you print the floor and post in Archimedean-chords, they sort of screw together on assembly. 
 
 
