@@ -105,4 +105,5 @@ If you'd like some natural spirals to show through on a particular disc-shaped p
 
 This is .. thematically satisfying but also utilitarian in small parts like the the compass post.  If you print the floor and post in Archimedean-chords, they sort of screw together on assembly. 
 
+The close-up trailer and promo screenshots show the prop is well distressed.   I tossed the box portion around in the driveway and dented it in a few places with a small chain, then sanded out the burs before painting it.  Proper distressing and color is another weakness in my art-fu but I'm excited to see what folks come up in their own makes!
 
