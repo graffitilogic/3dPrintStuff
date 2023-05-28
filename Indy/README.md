@@ -29,6 +29,8 @@ I'm artistically challenged, so the glyph work and artistic aspects are going to
 
 I printed the Box and the floor separately on a textured plate.  Oriented horizontally, the box will require supports for the center shelf and if you print the box-option with detailed sides, the sides will require supports.   Removing the supports from those box-side details is sort of a pain in the buttocks.    Although, I ended up with some pretty convincing looking toolmarks from removing all the little plastic support boogers from those side details.   You could also choose to print the box vertically oriented with a brim and it will use less support material.
 
+I'm pretty sure that the movie model is going to have those parts inset into the side of the box but if you've already printed the model and would like to add the side details, I exported the squares and chiclet-gear-whatever-they-are models so you could print and glue them onto the plain-sided version of the model.  (Out-y vs Innie)  If you go that route, you'll probably want to experiment with the z-Scale so they aren't quite so tall.
+
 I printed the floor with a high infill for stability, the box with a 50% infill for weight.  I used [Iridium Gold](https://us.store.bambulab.com/products/pla-metal?variant=41002951737480) but wasn't happy with the unpainted color, so use whatever works best for your preference.
 
 Print the Glyph Disc.  I did this on [natural](https://a.co/d/8vbXQfL) and eventually on a [Marbled](https://us.store.bambulab.com/products/pla-marble?variant=41003162992776) filament which looked pretty cool. My early prints had top-layer issues, so I eventually printed this solid.  YMMV.  The Glyph Disc will probably require some artwork on your part to match the movie.  
