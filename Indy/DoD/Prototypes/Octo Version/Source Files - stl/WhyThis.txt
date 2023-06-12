@@ -1,0 +1,1 @@
+Early partial screenshots, rumors and frankly confirmation bias had my early prototypes built around an 8 sided box instead of a 6 sided box.  The internal details remain consistent but the 6 versus 8 has implications on what will fit on the print bed horizontally.
