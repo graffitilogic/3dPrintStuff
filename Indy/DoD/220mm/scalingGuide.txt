@@ -1,1 +1,3 @@
 For a 220mm build, typically these objects were scaled at 72.93% from the source-files models.  For anything in the disc-stack, I probably scaled down or up to the nearest .25mm non-uniform on the z axis to make some of those parts thinner and to appease some misguided OCD.
+
+Also, at the 220mm or below build size some of the more detailed additions to the "Compass" assembly and related hands become more difficult to work with. 
