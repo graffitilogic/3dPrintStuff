@@ -1,1 +1,0 @@
-For the split-model build experiment 80% from the source-files models was the largest I can fit on a 256 print bed.   That's a good basis for your build but YMMV.
