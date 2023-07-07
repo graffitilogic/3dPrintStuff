@@ -1,0 +1,3 @@
+For a 230mm build, typically these objects were scaled at 77.97% from the source-files models.  For anything in the disc-stack, I probably scaled down or up to the nearest .25mm non-uniform on the z axis to make some of those parts thinner and to appease some misguided OCD.
+
+Note, the sizes were based on the clean-sided box model.  The detail-sided box model ends up being slightly larger than the basis size because of extra surface depth needed to accommodate those inset-parts. 
