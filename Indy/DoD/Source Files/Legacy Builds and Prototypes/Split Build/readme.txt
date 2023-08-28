@@ -1,0 +1,5 @@
+For the split-model build experiment 80% from the source-files models was the largest I can fit on a 256 print bed.   That's a good basis for your build but YMMV.   
+
+I have successfully made a prop from the mk2 A/B print files.   I essentially printed 80% scale from source_stl, as normal but used 5mmx30mm stainless pegs from amazon as the pegs, I hacksawed and glued the glyph bowl and outer inset ring so that the model would come apart.   After I completed the "box floor" and related compass stack, I glued that compass floor into the A-Side of the part.   I glued the inner inset ring to the A-Side only.  This way, the model will separate similar to what was seen in the Premiere prop that was on display, though without the awesome and complicated internals.
+
+I have NOT yet made a prop from the mk3 A/B files because it is likely going to require a significant refactor of the compass-component stack.   I'm providing them here for your own experimentation and as a signal to where I plan to take the model next.
